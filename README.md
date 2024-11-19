@@ -45,21 +45,12 @@ A form to make inquiries, styled for simplicity and elegance.
 ✨ How It Works
 GSAP Animations: Provides smooth transitions for the navbar, hero section, service cards, and images.
 Responsive Design: Built using media queries and flexible layouts to ensure a seamless user experience.
-🌟 Screenshots
-
-
-### Instructions:
-1. Replace `your-username` with your GitHub username.  
-2. Replace `link-to-image` with the paths to your screenshots or hosted image links.  
-3. Replace `your-email@example.com` with your contact email.  
-
-Save this content as `README.md` in the root directory of your project!
-
 
 💡 Future Enhancements
 Add backend integration for handling form submissions.
 Include a live chat feature for instant customer support.
 Expand the gallery section with video content.
+
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -68,5 +59,5 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 📬 Contact
 For any inquiries, reach out at:
-Email: your-email@example.com
-GitHub: your-username
+Email: affanasgar8@gmail.com
+GitHub: affancoder
